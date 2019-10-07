@@ -32,7 +32,7 @@ const Header = ({ currentUser }) => (
 );
 
 const mapStateToProps = state => ({
-  currentUser: state.user.currentUSer
+  currentUser: state.user.currentUser
 })
 
 
